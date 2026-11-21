@@ -24,3 +24,7 @@ alter:
 修改字段名称	CHANGE	修改列名及定义
 删除字段	DROP COLUMN	删除列
 修改表名	RENAME TO	修改表名称
+
+### insert
+    insert into employees values()
+    
